@@ -1,112 +1,22 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Satish Parmar</h1>
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Satish Parmar</h1><br><br><h3 align="center"><br>DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes<br></h3><br><br><p align="center"><br><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;AWS+%7C+Linux+%7C+Docker;Terraform+%7C+Jenkins+%7C+Kubernetes;Continuous+Learner+%F0%9F%9A%80" /><br></p><br><br>---<br><br>## 🚀 About Me<br><br>🔹 B.Tech Computer Science Student<br><br>🔹 DevOps & Cloud Enthusiast<br><br>🔹 Learning AI Agents & Cloud Automation<br><br>🔹 Passionate about Infrastructure Automation<br><br>🔹 Looking for DevOps & Cloud Opportunities<br><br>---<br><br>## ⚡ Tech Stack<br><br><p align="center"><br><br><img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,python,mysql" /><br><br></p><br><br>---<br><br>## 📈 GitHub Stats<br><br><p align="center"><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" /><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" /><br><br></p><br><br>---<br><br>## 🔥 DevOps Tools<br><br>✅ AWS<br><br>✅ Linux<br><br>✅ Docker<br><br>✅ Kubernetes<br><br>✅ Terraform<br><br>✅ Jenkins<br><br>✅ Git & GitHub<br><br>✅ Python<br><br>✅ SQL<br><br>---<br><br>## 🏆 Certifications<br><br>🏅 AWS Cloud<br><br>🏅 Linux Administration<br><br>🏅 Docker<br><br>🏅 Kubernetes<br><br>🏅 Terraform<br><br>🏅 Jenkins<br><br>---<br><br>## 🌐 Connect With Me<br><br><p align="center"><br><br><a href="https://linkedin.com/in/YOUR_LINKEDIN"><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br><br><a href="mailto:satishpparmar78787@gmail.com"><br><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br></a><br><br></p><br><br>---<br><br><p align="center"><br><br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" /><br><br></p><br><br><h3 align="center"><br>🚀 Automating Today, Building Tomorrow 🚀<br></h3>
 
-<h3 align="center">
-DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes
-</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;AWS+%7C+Linux+%7C+Docker;Terraform+%7C+Jenkins+%7C+Kubernetes;Continuous+Learner+%F0%9F%9A%80" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satishparmar251) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satishparmar-devops) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@satish parmar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishparmar78787@gmail.com) 
 
----
-
-## 🚀 About Me
-
-🔹 B.Tech Computer Science Student
-
-🔹 DevOps & Cloud Enthusiast
-
-🔹 Learning AI Agents & Cloud Automation
-
-🔹 Passionate about Infrastructure Automation
-
-🔹 Looking for DevOps & Cloud Opportunities
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=satishparmar78787-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=satishparmar78787-arch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=satishparmar78787-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=satishparmar78787-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ Tech Stack
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/satishparmar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satishkumar) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/satishparmar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/satishparmar) 
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,python,mysql" />
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
-</p>
-
----
-
-## 🔥 DevOps Tools
-
-✅ AWS
-
-✅ Linux
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ Terraform
-
-✅ Jenkins
-
-✅ Git & GitHub
-
-✅ Python
-
-✅ SQL
-
----
-
-## 🏆 Certifications
-
-🏅 AWS Cloud
-
-🏅 Linux Administration
-
-🏅 Docker
-
-🏅 Kubernetes
-
-🏅 Terraform
-
-🏅 Jenkins
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:satishpparmar78787@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
-</p>
-
-<h3 align="center">
-🚀 Automating Today, Building Tomorrow 🚀
-</h3>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
