@@ -1,16 +1,93 @@
 ## Hi there 👋
+# Hi 👋, I'm Satish Parmar
 
-<!--
-**satishparmar78787-arch/satishparmar78787-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes | Terraform | Jenkins
 
-Here are some ideas to get you started:
+🚀 Passionate about Cloud Computing, DevOps, Automation, and Infrastructure as Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science Student
+
+🌱 Currently Learning:
+- Advanced AWS
+- Kubernetes
+- Terraform
+- AI Agents
+- Cloud Automation
+
+💼 Interested In:
+- DevOps Engineering
+- Cloud Engineering
+- Site Reliability Engineering (SRE)
+- Infrastructure Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud
+- AWS
+
+### Operating Systems
+- Linux (Red Hat, Ubuntu)
+
+### DevOps Tools
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Git
+- GitHub
+
+### Programming
+- Python
+- Shell Scripting
+
+### Database
+- SQL
+- MySQL
+
+### Analytics
+- Power BI
+- Excel
+
+---
+
+## 🚀 Projects
+
+### AWS EC2 Web Server Deployment
+- Deployed and managed web applications on AWS EC2.
+
+### Dockerized Application Deployment
+- Containerized applications using Docker.
+
+### Jenkins CI/CD Pipeline
+- Automated build and deployment process.
+
+### Terraform Infrastructure Automation
+- Provisioned cloud infrastructure using IaC.
+
+### Kubernetes Deployment
+- Managed containerized applications using Kubernetes.
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud
+- Linux Administration
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Power BI
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: satishpparmar78787@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/satishparmar-devops
+
+⭐ Always learning, building, and automating.
