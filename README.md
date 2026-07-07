@@ -1,93 +1,112 @@
 ## Hi there 👋
-# Hi 👋, I'm Satish Parmar
+<h1 align="center">Hi 👋, I'm Satish Parmar</h1>
 
-### DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes | Terraform | Jenkins
+<h3 align="center">
+DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes
+</h3>
 
-🚀 Passionate about Cloud Computing, DevOps, Automation, and Infrastructure as Code.
-
-🎓 B.Tech Computer Science Student
-
-🌱 Currently Learning:
-- Advanced AWS
-- Kubernetes
-- Terraform
-- AI Agents
-- Cloud Automation
-
-💼 Interested In:
-- DevOps Engineering
-- Cloud Engineering
-- Site Reliability Engineering (SRE)
-- Infrastructure Automation
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;AWS+%7C+Linux+%7C+Docker;Terraform+%7C+Jenkins+%7C+Kubernetes;Continuous+Learner+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Cloud
-- AWS
+🔹 B.Tech Computer Science Student
 
-### Operating Systems
-- Linux (Red Hat, Ubuntu)
+🔹 DevOps & Cloud Enthusiast
 
-### DevOps Tools
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Git
-- GitHub
+🔹 Learning AI Agents & Cloud Automation
 
-### Programming
-- Python
-- Shell Scripting
+🔹 Passionate about Infrastructure Automation
 
-### Database
-- SQL
-- MySQL
-
-### Analytics
-- Power BI
-- Excel
+🔹 Looking for DevOps & Cloud Opportunities
 
 ---
 
-## 🚀 Projects
+## ⚡ Tech Stack
 
-### AWS EC2 Web Server Deployment
-- Deployed and managed web applications on AWS EC2.
+<p align="center">
 
-### Dockerized Application Deployment
-- Containerized applications using Docker.
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,python,mysql" />
 
-### Jenkins CI/CD Pipeline
-- Automated build and deployment process.
-
-### Terraform Infrastructure Automation
-- Provisioned cloud infrastructure using IaC.
-
-### Kubernetes Deployment
-- Managed containerized applications using Kubernetes.
+</p>
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- AWS Cloud
-- Linux Administration
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Power BI
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 DevOps Tools
 
-📧 Email: satishpparmar78787@gmail.com
+✅ AWS
 
-💼 LinkedIn:
-https://linkedin.com/in/satishparmar-devops
+✅ Linux
 
-⭐ Always learning, building, and automating.
+✅ Docker
+
+✅ Kubernetes
+
+✅ Terraform
+
+✅ Jenkins
+
+✅ Git & GitHub
+
+✅ Python
+
+✅ SQL
+
+---
+
+## 🏆 Certifications
+
+🏅 AWS Cloud
+
+🏅 Linux Administration
+
+🏅 Docker
+
+🏅 Kubernetes
+
+🏅 Terraform
+
+🏅 Jenkins
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:satishpparmar78787@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+
+</p>
+
+<h3 align="center">
+🚀 Automating Today, Building Tomorrow 🚀
+</h3>
